@@ -70,7 +70,7 @@
   }
 
   .sm-fancy-border {
-    border-bottom: 10px solid #ffc38b;
+    border-bottom: 10px solid #441a49;
     height: 50px;
   }
 
@@ -170,6 +170,10 @@
 
   .sm-w-250px {
     width: 250px;
+  }
+
+  .sm-w-300px {
+    width: 300px;
   }
 
   .sm-min-w-240px {

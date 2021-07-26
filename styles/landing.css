@@ -4,8 +4,8 @@ body {
   font-family: Helvetica,Arial,sans-serif;
   border: 10px solid black;
   max-width: 1500px;
-  display: flex;
-  justify-content: center;
+  /* display: flex;
+  justify-content: center; */
 }
 
 .main {
