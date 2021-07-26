@@ -1,0 +1,29 @@
+@font-face {
+  font-family: Chango;
+  src: url('/fonts/Chango/Chango-Regular.ttf');
+}
+
+@font-face {
+  font-family: Lora;
+  src: url('/fonts/Lora/static/Lora-Regular.ttf');
+}
+
+@font-face {
+  font-family: Chicle;
+  src: url('/fonts/Chicle/Chicle-Regular.ttf');
+}
+
+@font-face {
+  font-family: Modak;
+  src: url('/fonts/Modak/Modak-Regular.ttf');
+}
+
+@font-face {
+  font-family: Titan_One;
+  src: url('/fonts/Titan_One/TitanOne-Regular.ttf');
+}
+
+@font-face {
+  font-family: Kanit-Bold;
+  src: url('/fonts/Kanit/Kanit-Bold.ttf');
+}
