@@ -160,6 +160,10 @@
     width: 75%
   }
 
+  .sm-w-90p {
+    width: 90%
+  }
+
   .sm-w-100p {
     width: 100%
   }
@@ -188,6 +192,10 @@
 
   .sm-font-12 {
     font-size: 12px;
+  }
+
+  .sm-font-14 {
+    font-size: 14px;
   }
 
   .sm-font-16 {
