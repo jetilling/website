@@ -959,11 +959,15 @@
 }
 
 .form-button {
-  width: 100px;
+  width: 200px;
   height: 30px;
   background: #fff;
   font-size: 12px;
   border-radius: 4px;
+}
+
+.form-button:hover {
+  cursor: pointer;
 }
 
 /* Position */
